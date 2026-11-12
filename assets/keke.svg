@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#b8975a" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="60" cy="60" r="56" stroke-width=".8" opacity=".7"/>
+  <!-- ornate frame -->
+  <rect x="34" y="32" width="52" height="56" stroke-width="1.1"/>
+  <rect x="39" y="37" width="42" height="46" stroke-width=".6" opacity=".8"/>
+  <path d="M34 32 c-4 -2 -6 -6 -2 -8 M86 32 c4 -2 6 -6 2 -8 M34 88 c-4 2 -6 6 -2 8 M86 88 c4 2 6 6 2 8" stroke-width=".7"/>
+  <!-- painted landscape stroke -->
+  <path d="M42 74 C 50 64, 56 70, 62 62 C 66 57, 72 60, 78 54" stroke-width="1"/>
+  <circle cx="70" cy="47" r="4" stroke-width=".8"/>
+  <!-- brush -->
+  <path d="M90 92 L 74 76" stroke-width="1"/>
+  <path d="M74 76 c-3 -3 -6 -2 -6 1 c0 3 3 5 6 4 z" stroke-width=".8"/>
+</svg>

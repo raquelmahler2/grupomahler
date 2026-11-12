@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#b8975a" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="60" cy="60" r="56" stroke-width=".8" opacity=".7"/>
+  <!-- open book -->
+  <path d="M60 82 C 50 76, 38 75, 26 78 L 26 46 C 38 43, 50 44, 60 50 Z" stroke-width="1.1"/>
+  <path d="M60 82 C 70 76, 82 75, 94 78 L 94 46 C 82 43, 70 44, 60 50 Z" stroke-width="1.1"/>
+  <path d="M32 54 C 40 52, 48 53, 54 56 M32 61 C 40 59, 48 60, 54 63 M32 68 C 40 66, 48 67, 54 70" stroke-width=".6" opacity=".8"/>
+  <!-- quill -->
+  <path d="M86 24 C 74 30, 66 42, 62 58" stroke-width="1"/>
+  <path d="M86 24 C 82 34, 76 42, 66 50 C 72 40, 78 32, 86 24 Z" stroke-width=".8"/>
+  <path d="M62 58 l-1.5 4" stroke-width="1.2"/>
+  <!-- compass star -->
+  <path d="M38 30 l1.6 4 4 1.6 -4 1.6 -1.6 4 -1.6 -4 -4 -1.6 4 -1.6 z" fill="#b8975a" stroke="none"/>
+</svg>

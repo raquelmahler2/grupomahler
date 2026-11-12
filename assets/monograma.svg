@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none" stroke="#b8975a" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="60" cy="60" r="56" stroke-width="1"/>
+  <circle cx="60" cy="60" r="51" stroke-width=".6" opacity=".6"/>
+  <!-- G -->
+  <path d="M55 38 C 42 34, 30 44, 31 60 C 32 76, 46 84, 57 79 C 61 77, 62 73, 62 69 L 62 64 L 52 64" stroke-width="1.6"/>
+  <!-- M (pen strokes) -->
+  <path d="M60 82 C 62 70, 64 52, 66 40 C 70 52, 74 62, 77 68 C 80 60, 84 50, 88 40 C 89 54, 89 68, 92 82" stroke-width="1.6"/>
+  <!-- quill flourish -->
+  <path d="M28 92 C 44 98, 76 98, 92 92" stroke-width=".8"/>
+  <path d="M60 22 l2.5 4 -2.5 4 -2.5 -4 z" fill="#b8975a" stroke="none"/>
+  <path d="M60 98 l2 3 -2 3 -2 -3 z" fill="#b8975a" stroke="none"/>
+</svg>
